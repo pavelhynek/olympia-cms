@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Great coffee with a conscience
-image: /img/item1.jpg
+image: /img/blog-index.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
@@ -45,7 +45,7 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-    - image: /img/item1.jpg
+    - image: /img/meeting-space.png
       text: Lore lisum
   heading: What we offer
   description: >
